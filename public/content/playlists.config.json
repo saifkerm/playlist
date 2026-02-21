@@ -1,0 +1,58 @@
+[
+  {
+    "id": "o-messenger",
+    "playlistId": "PLlZazEh_c4nScNCvGBn8OEf6ujk-sDUpg",
+    "sourceUrl": "https://www.youtube.com/watch?v=dAZPkwAo0lE&list=PLlZazEh_c4nScNCvGBn8OEf6ujk-sDUpg",
+    "channelName": "Towards Eternity",
+    "channelHandle": "@TowardsEternity",
+    "enabled": true
+  },
+  {
+    "id": "la-vie-du-prophete-rachid-eljay",
+    "playlistId": "PLiGphLNkyYRftisQvNsSSbMkjcOY6o93O",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLiGphLNkyYRftisQvNsSSbMkjcOY6o93O",
+    "channelName": "Pr. Rachid Eljay chaine officielle 1",
+    "channelHandle": "@rachid-eljay",
+    "enabled": true
+  },
+  {
+    "id": "la-sira-du-prophete-nader",
+    "playlistId": "PLpgMn_o6FhER_8bZ_zjjydrmW33wlge5V",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLpgMn_o6FhER_8bZ_zjjydrmW33wlge5V",
+    "channelName": "NaderAbouAnas Officiel",
+    "channelHandle": "@NaderAbouAnas",
+    "enabled": true
+  },
+  {
+    "id": "histoires-prophetes-voix-offor",
+    "playlistId": "PL-e5Br4IS57t2mmiiQiWM3A2tF33Vnkox",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL-e5Br4IS57t2mmiiQiWM3A2tF33Vnkox",
+    "channelName": "Voix Offor Islam",
+    "channelHandle": "@Voixofforislam",
+    "enabled": true
+  },
+  {
+    "id": "histoire-prophete-mohammed-voix-offor",
+    "playlistId": "PL-e5Br4IS57vxgd1n-r8EeBP73qOksx-2",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL-e5Br4IS57vxgd1n-r8EeBP73qOksx-2",
+    "channelName": "Voix Offor Islam",
+    "channelHandle": "@Voixofforislam",
+    "enabled": true
+  },
+  {
+    "id": "histoires-prophetes-islam-simplement",
+    "playlistId": "PLcCRMUTnOp0WQz69X-TMnpTxxdKb1t-DU",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLcCRMUTnOp0WQz69X-TMnpTxxdKb1t-DU",
+    "channelName": "L'Islam simplement",
+    "channelHandle": "@lislamsimplement",
+    "enabled": true
+  },
+  {
+    "id": "sira-dessin-anime-muslim-alim",
+    "playlistId": "PL0N2TeX83UvX1YN3Sy4KlgyKNwpAXBdBe",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL0N2TeX83UvX1YN3Sy4KlgyKNwpAXBdBe",
+    "channelName": "MUSLIM ALIM: Islam, Koran, duas",
+    "channelHandle": "@muslim_alim_pro",
+    "enabled": true
+  }
+]

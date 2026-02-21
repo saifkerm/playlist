@@ -1,0 +1,130 @@
+{
+  "DW-00ckCAPI": [
+    {
+      "id": "ep1-q1",
+      "question": "Quel est le thème principal de l'épisode 1 ?",
+      "options": [
+        "Introduction à la Sira du Prophète Muhammad",
+        "Histoire de l'Empire Ottoman",
+        "Comparaison entre différentes langues"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ep1-q2",
+      "question": "Quel format narratif est mis en avant dans cette série ?",
+      "options": [
+        "AI-Visualized Sirah Series",
+        "Podcast sans image",
+        "Documentaire en direct"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ep1-q3",
+      "question": "Quel est l'objectif de l'application v1 ?",
+      "options": [
+        "Rendre l'accès aux épisodes plus ludique et intuitif",
+        "Remplacer YouTube intégralement",
+        "Télécharger automatiquement toutes les vidéos"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "Qnzam5KcopM": [
+    {
+      "id": "ep2-q1",
+      "question": "Quel moment historique est évoqué dans l'épisode 2 ?",
+      "options": [
+        "Les jours les plus difficiles de l'Islam",
+        "La construction d'une mosquée moderne",
+        "Une biographie d'un scientifique"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ep2-q2",
+      "question": "Quel mode est recommandé par défaut dans l'application ?",
+      "options": [
+        "Mode podcast (audio-first)",
+        "Mode vidéo plein écran",
+        "Mode téléchargement offline"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ep2-q3",
+      "question": "Quel fallback FR est affiché si la piste FR n'est pas disponible ?",
+      "options": [
+        "Sous-titres FR",
+        "Version espagnole",
+        "Aucun texte"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "dAZPkwAo0lE": [
+    {
+      "id": "ep3-q1",
+      "question": "Qui est au centre du récit de l'épisode 3 ?",
+      "options": [
+        "Umar (ra)",
+        "Salahuddin",
+        "Ibn Sina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ep3-q2",
+      "question": "Quel badge se débloque après 3 épisodes consécutifs ?",
+      "options": [
+        "Série de 3 épisodes",
+        "Super lecteur",
+        "Créateur de playlist"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "ep3-q3",
+      "question": "La stratégie VF de la v1 est :",
+      "options": [
+        "Best-effort via YouTube",
+        "Doublage local systématique",
+        "Aucune préférence linguistique"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "sQMC7fkjmOA": [
+    {
+      "id": "trailer-q1",
+      "question": "La vidéo est :",
+      "options": [
+        "Le trailer officiel de la série",
+        "Un épisode complet de 45 min",
+        "Un live Q&A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "trailer-q2",
+      "question": "Le scope v1 couvre :",
+      "options": [
+        "Plusieurs playlists multi-chaînes",
+        "Une seule vidéo",
+        "Toutes les chaînes YouTube sans filtre"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "trailer-q3",
+      "question": "Le stockage utilisateur est :",
+      "options": [
+        "Local (sans compte)",
+        "Base SQL distante",
+        "Synchronisation Google Drive"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
