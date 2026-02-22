@@ -54,5 +54,61 @@
     "channelName": "MUSLIM ALIM: Islam, Koran, duas",
     "channelHandle": "@muslim_alim_pro",
     "enabled": true
+  },
+  {
+    "id": "prophete-joseph-salam-media-4k",
+    "playlistId": "PLlFafn-SOTOAs_4hXDVKz3Pg8hthxpUo5",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLlFafn-SOTOAs_4hXDVKz3Pg8hthxpUo5",
+    "channelName": "Salam Media | Français",
+    "channelHandle": "@unknown",
+    "enabled": true
+  },
+  {
+    "id": "prophete-moise-muslim-alim",
+    "playlistId": "PL0N2TeX83UvWuENz4NIn9_i3984Oft1JO",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL0N2TeX83UvWuENz4NIn9_i3984Oft1JO",
+    "channelName": "MUSLIM ALIM: Islam, Koran, duas",
+    "channelHandle": "@muslim_alim_pro",
+    "enabled": true
+  },
+  {
+    "id": "histoires-prophetes-podcast-muslim",
+    "playlistId": "PLJzIHdz1VYpIpFkLXYGf6F55Eewj4LCTm",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLJzIHdz1VYpIpFkLXYGf6F55Eewj4LCTm",
+    "channelName": "LE PODCAST DU MUSLIM",
+    "channelHandle": "@unknown",
+    "enabled": true
+  },
+  {
+    "id": "histoires-prophetes-al-bayane",
+    "playlistId": "PLQQKxe64Xf07DLNC9eumdfToW3G5ce2nI",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLQQKxe64Xf07DLNC9eumdfToW3G5ce2nI",
+    "channelName": "Radiotélévision Al Bayane",
+    "channelHandle": "@unknown",
+    "enabled": true
+  },
+  {
+    "id": "histoires-prophetes-yacine",
+    "playlistId": "PLMP9jslnQ47zOavTLb2ZuVIApqxR5QxhP",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLMP9jslnQ47zOavTLb2ZuVIApqxR5QxhP",
+    "channelName": "Yacine",
+    "channelHandle": "@unknown",
+    "enabled": true
+  },
+  {
+    "id": "prophete-youssouf-sounia-yusuf",
+    "playlistId": "PLR7wYlm73_0toHMBed8NMqznZhOFbN8D5",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLR7wYlm73_0toHMBed8NMqznZhOFbN8D5",
+    "channelName": "Sounia Yusuf",
+    "channelHandle": "@unknown",
+    "enabled": true
+  },
+  {
+    "id": "prophete-moussa-mr-jeff",
+    "playlistId": "PLNUGbBCsdyQ8WHiEy9C7Ay7Ni-2Snd_VX",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLNUGbBCsdyQ8WHiEy9C7Ay7Ni-2Snd_VX",
+    "channelName": "Mr Jeff",
+    "channelHandle": "@unknown",
+    "enabled": true
   }
 ]
