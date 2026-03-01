@@ -1,4 +1,6 @@
 export type FrenchAvailability = 'dub' | 'captions' | 'none';
+export type CatalogLanguage = 'fr' | 'ar';
+export type CatalogLanguageFilter = 'all' | CatalogLanguage;
 
 export type SourcePlaylist = {
   id: string;

@@ -1,9 +1,11 @@
 import { beforeEach, describe, expect, it } from 'vitest';
 import {
+  loadCatalogLanguageFilter,
   loadFavorites,
   loadPrefs,
   loadProgress,
   markEpisodeCompleted,
+  saveCatalogLanguageFilter,
   toggleFavorite,
   touchEpisode
 } from '../../src/features/preferences/storage';
@@ -62,5 +64,11 @@ describe('preferences storage', () => {
     expect(loadFavorites()).toEqual([]);
     expect(toggleFavorite('vid-1')).toEqual(['vid-1']);
     expect(toggleFavorite('vid-1')).toEqual([]);
+  });
+
+  it('persists catalog language filter', () => {
+    expect(loadCatalogLanguageFilter()).toBe('all');
+    saveCatalogLanguageFilter('ar');
+    expect(loadCatalogLanguageFilter()).toBe('ar');
   });
 });

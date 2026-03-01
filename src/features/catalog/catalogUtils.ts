@@ -1,4 +1,4 @@
-import { PlaylistManifest, UserProgress } from '../../types';
+import { CatalogLanguage, PlaylistManifest, UserProgress } from '../../types';
 
 export const countCompletedEpisodes = (playlist: PlaylistManifest, progress: UserProgress): number => {
   return playlist.episodes.filter((episode) => progress[episode.videoId]?.completed).length;
@@ -26,4 +26,15 @@ export const formatDateFr = (isoDate: string): string => {
   return new Intl.DateTimeFormat('fr-FR', {
     dateStyle: 'medium'
   }).format(date);
+};
+
+const ARABIC_SCRIPT_REGEX = /[\u0600-\u06FF]/;
+
+export const detectPlaylistLanguage = (playlist: PlaylistManifest): CatalogLanguage => {
+  if (playlist.id.startsWith('ar-')) {
+    return 'ar';
+  }
+
+  const probe = `${playlist.playlistTitle} ${playlist.channelName} ${playlist.channelHandle}`;
+  return ARABIC_SCRIPT_REGEX.test(probe) ? 'ar' : 'fr';
 };

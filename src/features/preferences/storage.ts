@@ -1,9 +1,10 @@
-import { UserPrefs, UserProgress, UserQuizScores } from '../../types';
+import { CatalogLanguageFilter, UserPrefs, UserProgress, UserQuizScores } from '../../types';
 
 const PREFS_KEY = 'playlistStories:prefs:v1';
 const PROGRESS_KEY = 'playlistStories:progress:v1';
 const FAVORITES_KEY = 'playlistStories:favorites:v1';
 const QUIZ_KEY = 'playlistStories:quiz:v1';
+const CATALOG_LANGUAGE_FILTER_KEY = 'playlistStories:catalog-lang-filter:v1';
 
 const defaultPrefs: UserPrefs = {
   playbackDefault: 'audio',
@@ -119,4 +120,21 @@ export const saveQuizScore = (videoId: string, score: number, total: number): Us
 
   window.localStorage.setItem(QUIZ_KEY, JSON.stringify(next));
   return next;
+};
+
+const isCatalogLanguageFilter = (value: unknown): value is CatalogLanguageFilter => {
+  return value === 'all' || value === 'fr' || value === 'ar';
+};
+
+export const loadCatalogLanguageFilter = (): CatalogLanguageFilter => {
+  if (typeof window === 'undefined') {
+    return 'all';
+  }
+
+  const parsed = safeParse<unknown>(window.localStorage.getItem(CATALOG_LANGUAGE_FILTER_KEY), 'all');
+  return isCatalogLanguageFilter(parsed) ? parsed : 'all';
+};
+
+export const saveCatalogLanguageFilter = (filter: CatalogLanguageFilter): void => {
+  window.localStorage.setItem(CATALOG_LANGUAGE_FILTER_KEY, JSON.stringify(filter));
 };
