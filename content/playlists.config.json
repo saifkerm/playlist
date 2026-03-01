@@ -110,5 +110,85 @@
     "channelName": "Mr Jeff",
     "channelHandle": "@unknown",
     "enabled": true
+  },
+  {
+    "id": "ar-qisas-anbiya-nabil-2024",
+    "playlistId": "PLbDRORmj0gydNzexxDf-HufsQLbT3GIJl",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLbDRORmj0gydNzexxDf-HufsQLbT3GIJl",
+    "channelName": "الشيخ نبيل العوضي",
+    "channelHandle": "@نبيل-العوضي",
+    "enabled": true
+  },
+  {
+    "id": "ar-qisas-anbiya-nabil-s2",
+    "playlistId": "PLbDRORmj0gyevDGklUqlVqkxhulsF6IDq",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLbDRORmj0gyevDGklUqlVqkxhulsF6IDq",
+    "channelName": "الشيخ نبيل العوضي",
+    "channelHandle": "@نبيل-العوضي",
+    "enabled": true
+  },
+  {
+    "id": "ar-qisas-anbiya-suwaidan",
+    "playlistId": "PLEFA02A9A67BF8704",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLEFA02A9A67BF8704",
+    "channelName": "د. طارق السويدان",
+    "channelHandle": "@DrAlSuwaidan",
+    "enabled": true
+  },
+  {
+    "id": "ar-sira-suwaidan",
+    "playlistId": "PLATlJNRzYr-C4scyewXpY0gQJ2nMB3Wbt",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLATlJNRzYr-C4scyewXpY0gQJ2nMB3Wbt",
+    "channelName": "د. طارق السويدان",
+    "channelHandle": "@DrAlSuwaidan",
+    "enabled": true
+  },
+  {
+    "id": "ar-qisas-anbiya-othman-khamis",
+    "playlistId": "PLx3Fh1kiMbreJVTTd4FG8PafqUo9pltO1",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLx3Fh1kiMbreJVTTd4FG8PafqUo9pltO1",
+    "channelName": "Dr. Othman Alkamees - الشيخ الدكتور عثمان الخميس",
+    "channelHandle": "@othmanalkamees",
+    "enabled": true
+  },
+  {
+    "id": "ar-qisas-anbiya-othman-khamis-main",
+    "playlistId": "PLx3Fh1kiMbrf3Esyu_uot0S1cx_YfkEav",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLx3Fh1kiMbrf3Esyu_uot0S1cx_YfkEav",
+    "channelName": "Dr. Othman Alkamees - الشيخ الدكتور عثمان الخميس",
+    "channelHandle": "@othmanalkamees",
+    "enabled": true
+  },
+  {
+    "id": "ar-sira-rasul-othman-khamis",
+    "playlistId": "PLx3Fh1kiMbrfL-Yi4XLcg0SgNrkGS0K-V",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLx3Fh1kiMbrfL-Yi4XLcg0SgNrkGS0K-V",
+    "channelName": "Dr. Othman Alkamees - الشيخ الدكتور عثمان الخميس",
+    "channelHandle": "@othmanalkamees",
+    "enabled": true
+  },
+  {
+    "id": "ar-sira-samir-moustafa",
+    "playlistId": "PL6C03BCFE87398A78",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL6C03BCFE87398A78",
+    "channelName": "قناة الشيخ سمير مصطفى الرسمية",
+    "channelHandle": "@samirmoustafa",
+    "enabled": true
+  },
+  {
+    "id": "ar-qisas-anbiya-abdelwahed-wajih",
+    "playlistId": "PLitd-aYfAlj25lraKmQEWAd4pwwBLUwfy",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLitd-aYfAlj25lraKmQEWAd4pwwBLUwfy",
+    "channelName": "القناة الرسمية - الدكتور عبد الواحد وجيه",
+    "channelHandle": "@Dr_abdelwahed_wajih_official",
+    "enabled": true
+  },
+  {
+    "id": "ar-qisas-anbiya-shaarawi",
+    "playlistId": "PLjdstnTfkW8jchY-Oa9pNdXhsFH8XTMVg",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLjdstnTfkW8jchY-Oa9pNdXhsFH8XTMVg",
+    "channelName": "القناة الرسمية لفضيلة الشيخ محمد متولي الشعراوي",
+    "channelHandle": "@alsharawiofficial",
+    "enabled": true
   }
 ]
